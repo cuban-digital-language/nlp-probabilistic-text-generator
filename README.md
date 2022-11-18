@@ -15,3 +15,6 @@ probabilistic weighted graph of the dataset. This graph is composed of 4 importa
 Finally, the graph is traversed by constructing natural language texts, making random selections 
 according to the distribution of the edges for each node in question.
 
+## 🧐 Examples 
+
+## 😱 Model's Problems and 🤩 Solutions  
